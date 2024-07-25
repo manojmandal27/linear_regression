@@ -2,6 +2,9 @@
 
 **Definition:** The correlation coefficient is a measure that quantifies the strength and direction of the linear relationship between two variables. It ranges from -1 to +1.
 
+![image](https://github.com/user-attachments/assets/07fe10aa-87b8-4d33-bb6a-9646992482eb)
+
+
 **Interpretation:**
 
 A correlation coefficient close to +1 indicates a strong positive relationship, meaning as one variable increases, the other variable tends to also increase.
