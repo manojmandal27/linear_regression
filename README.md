@@ -1,4 +1,4 @@
-# linear_regression
+# Linear_regression
 
 **Definition:** The correlation coefficient is a measure that quantifies the strength and direction of the linear relationship between two variables. It ranges from -1 to +1.
 
